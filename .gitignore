@@ -1,0 +1,5 @@
+# images
+*.cdr
+
+# compiled os dist
+dist/

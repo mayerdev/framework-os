@@ -1,0 +1,5 @@
+# posix uefi
+uefi/
+
+# objects
+*.o
